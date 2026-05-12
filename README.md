@@ -109,3 +109,8 @@
 
 ---
 ---
+![parish-cv](https://raw.githubusercontent.com/ParishKhan/site-inspirations/add-parish-khan/parish-cv.png)
+<div align="center"> https://parish.cv </div> PORTFOLIO
+
+---
+---
